@@ -4,7 +4,6 @@ package com.IshantProject.demo.rest;
 import com.IshantProject.demo.Employee;
 import com.IshantProject.demo.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.jackson.autoconfigure.JacksonProperties;
 import org.springframework.web.bind.annotation.*;
 import tools.jackson.databind.json.JsonMapper;
 
